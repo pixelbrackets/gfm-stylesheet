@@ -1,3 +1,14 @@
+/**
+ * GitHub Flavored Markdown Stylesheet
+ *
+ * MIT License
+ * Dan Untenzu - @pixelbrackets (https://pixelbrackets.de)
+ */
+
+/**
+ * tuzz/github.css body styles
+ * Source https://gist.github.com/tuzz/3331384 (MIT), version 8
+ */
 body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
@@ -16,6 +27,11 @@ body > *:first-child {
 body > *:last-child {
   margin-bottom: 0 !important;
 }
+
+/**
+ * sindresorhus/github-markdown-css without the ».markdown-body« prefix
+ * Source https://github.com/sindresorhus/github-markdown-css (MIT), version 4.0
+ */
 
 .octicon {
   display: inline-block;
