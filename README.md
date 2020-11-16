@@ -1,5 +1,6 @@
 # GitHub Flavored Markdown Stylesheet
 
+[![Version](https://img.shields.io/packagist/v/pixelbrackets/gfm-stylesheet.svg?style=flat-square)](https://packagist.org/packages/pixelbrackets/gfm-stylesheet/)
 [![Build Status](https://img.shields.io/gitlab/pipeline/pixelbrackets/gfm-stylesheet?style=flat-square)](https://gitlab.com/pixelbrackets/gfm-stylesheet/pipelines)
 [![License](https://img.shields.io/badge/license-gpl--2.0--or--later-blue.svg?style=flat-square)](https://spdx.org/licenses/GPL-2.0-or-later.html)
 
@@ -27,6 +28,8 @@ without the need to add a `markdown-body` wrapper tag to it.
 
 Download [manually](https://gitlab.com/pixelbrackets/gfm-stylesheet/-/raw/master/dist/gfm.css?inline=false)
 or use a CDN like [jsDelivr](https://cdn.jsdelivr.net/gh/pixelbrackets/gfm-stylesheet/dist/gfm.min.css).
+
+Packagist Entry https://packagist.org/packages/pixelbrackets/gfm-stylesheet/
 
 ## Source
 

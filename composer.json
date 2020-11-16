@@ -1,0 +1,6 @@
+{
+    "name": "pixelbrackets/gfm-stylesheet",
+    "description": "GitHub Flavored Markdown Stylesheet - Version of the »sindresorhus/github-markdown-css« stylesheet with a body style and without the »markdown-body« prefix",
+    "type": "library",
+    "license": "GPL-2.0-or-later"
+}
