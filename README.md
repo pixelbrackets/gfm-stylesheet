@@ -31,6 +31,8 @@ or use a CDN like [jsDelivr](https://cdn.jsdelivr.net/gh/pixelbrackets/gfm-style
 
 Packagist Entry https://packagist.org/packages/pixelbrackets/gfm-stylesheet/
 
+NPM Entry https://www.npmjs.com/package/@pixelbrackets/gfm-stylesheet/
+
 ## Source
 
 https://gitlab.com/pixelbrackets/gfm-stylesheet/
